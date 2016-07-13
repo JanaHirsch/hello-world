@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+JanaHirsch here, all the way from Canada. 
+
+XOXO
+J
